@@ -11,7 +11,7 @@ timing_interval = 5
 st.set_page_config(layout="wide")
 
 # CSV file setup
-csv_file_name = 'port_utilization_data.csv'
+csv_file_name = 'port_utilisation_data.csv'
 file_exists = os.path.isfile(csv_file_name)
 
 # If the file exists, delete it to ensure the data is fresh
