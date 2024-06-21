@@ -32,4 +32,4 @@ This is a very simple utility built in Python with the Streamlit framework that 
 1. A browser window should open, but if it doesn't go to the URL provided after starting rpum.
 
 
-![RPUM](https://github.com/tastyworm/realtime_port_utilisation_monitor/readme_images/rpum_screenshot.png?raw=true)
+![RPUM](https://github.com/tastyworm/realtime_port_utilisation_monitor/blob/main/readme_images/rpum_screenshot.png?raw=true)
