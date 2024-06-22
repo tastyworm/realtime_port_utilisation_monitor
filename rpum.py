@@ -138,5 +138,4 @@ while True:
         # Update the bar chart to show only the most recent row of data
         bar_chart.bar_chart(bar_data[1])
         
-    # Use the slider's value for time.sleep
     time.sleep(timing_interval)
