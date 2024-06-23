@@ -1,7 +1,7 @@
 # RPUM (Realtime Port Utilisation Monitor) v1.0
 
 
-**Author:**: Simon Cottrill
+**Author:** Simon Cottrill
 
 [https://github.com/tastyworm/realtime_port_utilisation_monitor](https://github.com/tastyworm/realtime_port_utilisation_monitor)
 
